@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
+        "ar": "رائد سيف",
         "en": "Theme Raed"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/saifghanmi/theme-raed",
     "author_email": "support@salla.dev",
     "features": [
         "mega-menu",
